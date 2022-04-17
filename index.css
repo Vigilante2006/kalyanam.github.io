@@ -9,7 +9,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background: url(/bg.jpeg) no-repeat center center fixed;
+    background: url(bg.jpeg) no-repeat center center fixed;
     background-size: cover;
     position: absolute;
     font-family: 'Poppins';
