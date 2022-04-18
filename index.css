@@ -274,6 +274,8 @@ span {
     }
     
     .formBox {
-        top: 10rem;
+        top: -1rem;
+        width: 350px;
+        height: 475px;
     }
 }
