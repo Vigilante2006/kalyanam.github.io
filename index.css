@@ -148,7 +148,7 @@ nav ul li button:hover {
 }
 .formBox {
     width: 380px;
-    height: 480px;
+    height: 465px;
     position: relative;
     margin: 0% auto;
     background: rgba(225, 127, 234, 0.122);
@@ -159,7 +159,7 @@ nav ul li button:hover {
 
 .buttonBox {
     width: 220px;
-    margin: 35px auto;
+    margin: 20px auto;
     position: relative;
     box-shadow: 0 0 8px 2px #eaa3dc;
     border-radius: 30px;
@@ -193,7 +193,7 @@ nav ul li button:hover {
 }
 
 .inputRegisterGroup {
-    top: 120px;
+    top: 100px;
     position: absolute;
     width: 280px;
     transition: .5s;
@@ -266,7 +266,7 @@ span {
         box-shadow: inset 0 0 0 3000px rgba(225, 154, 244, 0.15);
         backdrop-filter: blur(10px);
         /* border: 2px solid red; */
-        width: 12rem;
+        width: 10vw;
         right: -12rem;
         top: 0px;
         padding-top: 5rem;
